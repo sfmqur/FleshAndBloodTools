@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FABTooling", "FABTooling\FABTooling.csproj", "{1D266867-4D2A-486E-80FF-019541BC63FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D266867-4D2A-486E-80FF-019541BC63FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D266867-4D2A-486E-80FF-019541BC63FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D266867-4D2A-486E-80FF-019541BC63FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D266867-4D2A-486E-80FF-019541BC63FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {558FB9C1-E9A1-49CD-AADF-43380B2DB7D6}
+	EndGlobalSection
+EndGlobal
